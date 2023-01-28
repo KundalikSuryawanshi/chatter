@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="we_will_send_otp_on_your_number_to_verify">We will send OTP on Your Number to verify</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+</resources>
